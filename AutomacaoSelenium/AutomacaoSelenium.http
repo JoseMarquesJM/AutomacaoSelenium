@@ -1,0 +1,6 @@
+@AutomacaoSelenium_HostAddress = http://localhost:5104
+
+GET {{AutomacaoSelenium_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
